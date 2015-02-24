@@ -1,5 +1,5 @@
 # CSV-Duplicate-Remover
-Simple python script that compares two csv files and outputs rows that appear in the second csv file but not the first. 
+Simple python script that compares two csv files and outputs rows that appear in the second csv file but not the first. Built using wxpython
 
 Originally built as a simple alternative to persistent storage for webscraping instead of setting up a database. 
 
