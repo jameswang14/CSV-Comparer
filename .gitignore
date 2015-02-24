@@ -1,0 +1,5 @@
+build/
+rmdup.app/
+dist/
+rmdup.spec
+setup.py
